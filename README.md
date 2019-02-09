@@ -29,3 +29,5 @@ sebelum kita memulai langkah selanjutnya saya akan menjelaskan kegunaan kodingan
 >!step 3
 setelah kita menyelesaikan kodingan, selanjutnya kita save di folder yg ada di E,C, ataupun D dengan memakai format:(.py), kalau saya di taruh di E dengan nama folder kajol, contohnya d bawah ini :
 # ![3](https://user-images.githubusercontent.com/46733453/52521948-ae807b00-2cb1-11e9-9fd9-3703200bdc1d.png)
+
+>!selesai kita save, mari kita jalankan lewat phyton shel dengan cara klik kanan pada bagian file yg tadi kita buat dan pilih edi with IDLE dan pilih lagi edit with IDLE 3.7 (32-bit).
