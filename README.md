@@ -25,3 +25,7 @@ sebelum kita memulai langkah selanjutnya saya akan menjelaskan kegunaan kodingan
 "else"    = ketika tidak ada suatu kondisi yang terpenuhi maka jalankan program.
 
 "return"  = sebuah selesainya eksekusi dalam sebuah codingan.
+
+>!step 3
+setelah kita menyelesaikan kodingan, selanjutnya kita save di folder yg ada di E,C, ataupun D dengan memakai format:(.py), kalau saya di taruh di E dengan nama folder kajol, contohnya d bawah ini :
+# ![3](https://user-images.githubusercontent.com/46733453/52521948-ae807b00-2cb1-11e9-9fd9-3703200bdc1d.png)
