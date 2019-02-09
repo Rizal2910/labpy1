@@ -32,5 +32,9 @@ setelah kita menyelesaikan kodingan, selanjutnya kita save di folder yg ada di E
 
 >!step 4 selesai kita save, mari kita jalankan lewat phyton shel dengan cara klik kanan pada bagian file yg tadi kita buat dan pilih edi with IDLE dan pilih lagi edit with IDLE 3.7 (32-bit).
 # ![edit](https://user-images.githubusercontent.com/46733453/52522388-5c425880-2cb7-11e9-9fe0-e792d18afe8a.png)
->! step 5
+
 setelah itu kita akan melihat kodingan tadi yg telah kita buat
+# ![7](https://user-images.githubusercontent.com/46733453/52522432-f0142480-2cb7-11e9-895a-9d3d4c830b36.png)
+
+>!step 5
+setelah itu mari kita Run dengan menekan F5, dan dia akan membuka phyton shell, setelah itu kita tulis angka bebas dan programnya akan berjalan, ketika kita pencet ya, maka program akan memulai ulang kembali, mari kita lihat contoh d bawah ini:
