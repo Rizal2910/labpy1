@@ -39,3 +39,5 @@ setelah itu kita akan melihat kodingan tadi yg telah kita buat
 >!step 5setelah itu mari kita Run dengan menekan F5, dan dia akan membuka phyton shell, setelah itu kita tulis angka bebas dan programnya akan berjalan, ketika kita pencet (ya), maka program akan memulai ulang kembali dan ketika kita tulis (tidak) maka program tidak akan mengulanginya lagi, mari kita lihat contoh d bawah ini:
 # ![9](https://user-images.githubusercontent.com/46733453/52522480-7e88a600-2cb8-11e9-9102-c336c3fd67d6.png)
 
+ITU DIA TUTOR CARA MENENTUKAN BILANGAN TERBESARNYA, KURANG LEBIHNYA MOHON MAAF
+WASSALAM WR.WB
