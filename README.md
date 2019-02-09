@@ -6,3 +6,22 @@ Sebelum kita memulai terlebih dahulu membaca bismillah, lau kita buka aplikasi N
 
 >!step2
 setelah kita buka notepad, lalu kita ketik kodinganya seperti contoh d bawah ini
+# ![2](https://user-images.githubusercontent.com/46733453/52521165-94d93680-2ca5-11e9-94d5-11fe82168c74.png)
+sebelum kita memulai langkah selanjutnya saya akan menjelaskan kegunaan kodingan tersebut
+
+
+"print()" = untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
+
+"def"     = sebuah perintah python yang tidak akan aktif sampai python me-running perintah def tersebut, atau sebagai kata kunci.
+
+"int()"   = untuk mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
+
+"input()" = untuk menerima baris input dari user dan mengembalikannya dalam bentuk string.
+
+"if"      = yaitu bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan. 
+
+"elif"    = ketika kondisi lainnya tidak tercapai maka jalankan program.
+
+"else"    = ketika tidak ada suatu kondisi yang terpenuhi maka jalankan program.
+
+"return"  = sebuah selesainya eksekusi dalam sebuah codingan.
