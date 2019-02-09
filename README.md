@@ -31,3 +31,4 @@ setelah kita menyelesaikan kodingan, selanjutnya kita save di folder yg ada di E
 # ![3](https://user-images.githubusercontent.com/46733453/52521948-ae807b00-2cb1-11e9-9fd9-3703200bdc1d.png)
 
 >!selesai kita save, mari kita jalankan lewat phyton shel dengan cara klik kanan pada bagian file yg tadi kita buat dan pilih edi with IDLE dan pilih lagi edit with IDLE 3.7 (32-bit).
+# ![edit](https://user-images.githubusercontent.com/46733453/52522388-5c425880-2cb7-11e9-9fe0-e792d18afe8a.png)
